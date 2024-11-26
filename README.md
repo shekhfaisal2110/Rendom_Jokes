@@ -37,4 +37,4 @@ A simple web application that fetches and displays random jokes from an API. The
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/random-jokes-generator.git
+   git clone https://github.com/shekhfaisal2110/Rendom_Jokes.git
