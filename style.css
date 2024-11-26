@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'rubik',sans-serif;
+    color: white;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+body{
+    /* background: orange; */
+    body{
+        background-image: url("blob-scene-haikei.svg");
+        background-size: contain;
+    }
+}
+
+.box{
+    background-color: black;
+    width: 90vmin;
+    padding: 5rem 4rem;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    box-shadow: 2rem 2rem 4rem rgba(97,63,0,0.4);
+    border-radius: 0.5rem;
+}
+span{
+    display: block;
+    font-size: 5rem;
+    text-align: center;
+}
+#joke{
+    margin: 3rem 0;
+    text-align: center;
+    word-break: break-word;
+    line-height: 35px;
+}
+#btn{
+    display: block;
+    background: orange;
+    padding: 1.2rem 2.5rem;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+
